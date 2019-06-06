@@ -29,6 +29,7 @@ You will learn not only the basics of coding, design, and teamwork skills, but y
 
 ## Supplementary Content
 
+* Supplement - [Functions Workout](./chapters/FUNCTIONS_WORKOUT.md)
 * Supplement - [Block Scope](./chapters/JS_SCOPE.md)
 * Supplement - [Practice Logic, Conditions, and Iterating Collections](./chapters/JS_LOGIC_PRACTICE.md)
 * Supplement - [Data and Metadata](./chapters/METADATA.md)
